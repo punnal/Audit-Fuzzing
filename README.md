@@ -17,7 +17,7 @@ Install Ubuntu 20.04 LTS version on virtual machine.
 
 Get the kernel(5.8.0-rc4) from www.kernel.org
 
-Build the custom kernel using the this [config](https://github.com/punnal/Audit-Fuzzing/blob/master/custom_kernel_config/kernel.config). It enabling some options that syzkaller needs.
+Build the custom kernel using the this [config](https://github.com/punnal/Audit-Fuzzing/blob/master/custom_kernel_config/kernel.config). It enables some options that syzkaller needs.
 
 Run Ubuntu 20.04 on a virtual machine using qemu. Setup ssh using ssh
 keys and then install auditd on it.
