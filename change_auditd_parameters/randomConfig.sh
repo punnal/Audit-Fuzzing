@@ -51,7 +51,7 @@ while getopts ":h-:" opt; do
 done
 
 
-echo "-----------------" >> /auditRandom.txt ;
+echo "-----------------" >> /auditConfRandom.txt ;
 echo "" >> /auditConfRandom.txt ;
 OUTPUT=$(($FREQMIN + $(( $RANDOM % $(($FREQMAX - $FREQMIN + 1)) )) ));
 echo $OUTPUT
