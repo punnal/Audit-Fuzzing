@@ -19,4 +19,4 @@ python3 auditDataParser2.py <INPUTFILE> <OUTPUTFILE>
 **Note:** Output will include systemcalls made by syz-executor or a.out.
 
 
-*Look at files in /samples see how input and output files looks like.*
+*Look at files in /samples see how input and output files look like.*
