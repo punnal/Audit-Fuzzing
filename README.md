@@ -37,6 +37,6 @@ Run syzkaller using this [config](https://github.com/punnal/Audit-Fuzzing/tree/m
 ## Changing Auditd parameters automaticly
 Scripts [here](https://github.com/punnal/Audit-Fuzzing/tree/master/change_auditd_parameters) can be used with corn job to change auditd parameters periodically. Corn job can be setup by following this [link](https://www.geeksforgeeks.org/how-to-setup-cron-jobs-in-ubuntu/).
 
-## Parsing Audit logs and syzkaller logs
+## Parsing Auditd logs and syzkaller logs
 The scripts [here](https://github.com/punnal/Audit-Fuzzing/tree/master/parse_logs) can be used to parse auditd and syzkaller logs.
 
