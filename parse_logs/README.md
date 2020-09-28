@@ -16,4 +16,7 @@ How to use:
 python3 auditDataParser2.py <INPUTFILE> <OUTPUTFILE>
 ```
 
-**Note:** Output will include syzkaller made by syz-executor or a.out.
+**Note:** Output will include systemcalls made by syz-executor or a.out.
+
+
+*Look in samples see sample input and output files.*
