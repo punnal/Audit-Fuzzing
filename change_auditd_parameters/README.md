@@ -1,13 +1,9 @@
-#Change auditd parameters automatically
+# Change auditd parameters automatically
 
 ## Changing parameters in audit.rules
 Buffer size and Rate limit parameters can be changed to a random value between the range specified. 
 
-Time, value of parameter and output of 
-``` 
-auditctl -s
-```
-will be stored in a /auditRandom.txt.
+Time, value of parameter and output of `auditctl -s` will be stored in a /auditRandom.txt.
 
 Sample use:
 
@@ -18,11 +14,7 @@ Sample use:
 ## Changing parameters in auditd.conf
 freq parameter can be changed to a random value between the range specified.
 
-Time, value of parameter and output of 
-``` 
-auditctl -s
-```
-will be stored in a /auditRandom.txt.
+Time, value of parameter and output of `auditctl -s` will be stored in a /auditRandom.txt.
 
 Sample use:
 
