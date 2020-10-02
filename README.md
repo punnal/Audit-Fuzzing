@@ -40,3 +40,5 @@ Scripts [here](https://github.com/punnal/Audit-Fuzzing/tree/master/change_auditd
 ## Parsing Auditd logs and syzkaller logs
 The scripts [here](https://github.com/punnal/Audit-Fuzzing/tree/master/parse_logs) can be used to parse auditd and syzkaller logs.
 
+## Compare Auditd logs and syzkaller logs
+The script [here]() can be used to compare auditd logs and syzkaller logs. Click [here]() for more details.
