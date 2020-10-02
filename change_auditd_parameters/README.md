@@ -23,4 +23,4 @@ Sample use:
 ```
 
 ## Run these scripts periodically
-Use corn job to run these scripts periodically. Setup corn job by following this [link](https://www.geeksforgeeks.org/how-to-setup-cron-jobs-in-ubuntu/).
+Use cron job to run these scripts periodically. Setup cron job by following this [link](https://www.geeksforgeeks.org/how-to-setup-cron-jobs-in-ubuntu/).
