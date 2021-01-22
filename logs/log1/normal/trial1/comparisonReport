@@ -1,0 +1,31 @@
+Lost Calls = 7 
+
+SystemCall: pipe
+Syzkaller call number: 497
+Auditd call number: 497
+
+SystemCall: pwritev
+Syzkaller call number: 2155
+Auditd call number: 2154
+
+SystemCall: flock
+Syzkaller call number: 6117
+Auditd call number: 6115
+
+SystemCall: newfstatat
+Syzkaller call number: 6160
+Auditd call number: 6157
+
+SystemCall: setpriority
+Syzkaller call number: 6482
+Auditd call number: 6478
+
+SystemCall: faccessat
+Syzkaller call number: 6566
+Auditd call number: 6561
+
+SystemCall: keyctl
+Syzkaller call number: 7337
+Auditd call number: 7331
+
+Alls calls after systemcall 7371 in syzkaller logs are Lost
