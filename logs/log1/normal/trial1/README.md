@@ -2,10 +2,12 @@
 
 ## Syzkaller Logs
 **syzkallerLogsRaw:** Logs obtained from syzkaller 
+
 **syzkallerLogs:** Parsed syzkallerLogsRaw to extract systemcalls only
 
 ## Auditd Logs
-**auditLogsRaw:** Logs obtained from syzkaller 
+**auditLogsRaw:** Logs obtained from syzkaller
+
 **auditdLogs:** Parsed auditLogsRaw to extract systemcalls only
 
 ## System Logs
