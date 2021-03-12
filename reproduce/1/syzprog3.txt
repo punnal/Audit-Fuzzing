@@ -1,0 +1,2 @@
+r0 = gettid()
+ptrace$getsig(0x4202, r0, 0x0, 0x0)

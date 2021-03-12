@@ -1,0 +1,2 @@
+pipe(&(0x7f00000000c0)={0xffffffffffffffff, <r0=>0xffffffffffffffff})
+fchmod(r0, 0x0)
